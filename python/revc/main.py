@@ -29,8 +29,7 @@ def main(inputString):
 			newString = newString + 'a'
 		else:
 			raise RuntimeWarning("This is not a valid DNA sequence. Character: %s is not a valid DNA nucleotide." % character)
-		
-	print inputString
+	
 	print newString
 	return newString
 	
