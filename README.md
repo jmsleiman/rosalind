@@ -1,0 +1,4 @@
+rosalind
+========
+
+Rosalind exercise solutions
