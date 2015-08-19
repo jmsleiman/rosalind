@@ -1,12 +1,11 @@
- #!/usr/bin/python
+#!/usr/bin/python
 # -*- coding: <utf-8> -*-
 
-#  Copyright 2014 Joseph M. Sleiman <www.jmsleiman.com>
+#  Copyright 2015 Joseph M. Sleiman <www.jmsleiman.com>
 #
 #  Licensed under the Simplified FreeBSD License
 
 import sys
-import itertools
 
 def score(letter):
 	weightedAlphabet = {
